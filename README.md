@@ -25,7 +25,7 @@ All scenarios include engagement metrics (views, likes, retweets, bookmarks, rep
 npx clawhub install x-article-extract
 
 # Or manually
-git clone https://github.com/joulian/x-article-extract.git \
+git clone https://github.com/yuxiaoyang2007-prog/x-article-extract.git \
   ~/.openclaw/workspace/skills/x-article-extract
 ```
 
